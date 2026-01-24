@@ -7,7 +7,7 @@ user and group management, Group Policy configuration, and basic
 PowerShell automation.
 
 ## Lab Environment
-- Windows Server 2019 (Domain Controller)
+- Windows Server 2022 (Domain Controller)
 - Windows 10 Client
 - Virtualization: VirtualBox / VMware
 - Network: Internal / NAT Network
