@@ -7,8 +7,11 @@ software consistency and reduce manual administrative overhead.
 
 Core Technical Skills Demonstrated:
 • Active Directory Management: Organized and managed computer objects within specific Organizational Units (OUs) for targeted policy application.
+
 • Network Resource Provisioning: Established a secure network share with NTFS and Sharing permissions specifically configured for 
 Domain Computers to allow machine-level access during the boot process.
+
 • GPO Configuration: Provisioned an MSI software package using UNC (Universal Naming Convention) network paths to ensure high availability across the network.
+
 • Client-Side Troubleshooting: Utilized command-line tools like gpupdate /force to trigger immediate policy refreshes and verified successful deployment 
 on Windows 10 workstations.
