@@ -1,0 +1,10 @@
+Name,Path
+IT,"OU=Lab_OUs,DC=muyigroups,DC=org"
+HR,"OU=Lab_OUs,DC=muyigroups,DC=org"
+Finance,"OU=Lab_OUs,DC=muyigroups,DC=org"
+Marketing,"OU=Lab_OUs,DC=muyigroups,DC=org"
+Sales,"OU=Lab_OUs,DC=muyigroups,DC=org"
+Operation,"OU=Lab_OUs,DC=muyigroups,DC=org"
+Legal,"OU=Lab_OUs,DC=muyigroups,DC=org"
+Engineering,"OU=Lab_OUs,DC=muyigroups,DC=org"
+Admins,"OU=Lab_OUs,DC=muyigroups,DC=org"
