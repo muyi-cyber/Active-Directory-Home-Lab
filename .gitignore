@@ -1,0 +1,18 @@
+# --- OS & System Junk ---
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# --- Development Environments ---
+.vscode/
+.history
+*.log
+
+# --- AD Lab Specifics ---
+*.csv
+*.xml
+*.vbox
+*.vbox-prev
+
+# Keep folder structure visible
+!*/.gitkeep
